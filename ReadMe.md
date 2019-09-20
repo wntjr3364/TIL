@@ -2,7 +2,7 @@
 
 ### Day1 
 
-[Javascript - Arrow function]("./Javascript/ECMA6.md")
+[Javascript - Arrow function](./Javascript/ECMA6.md)
 
 
 
